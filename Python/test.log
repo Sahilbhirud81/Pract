@@ -1,0 +1,16 @@
+2024-07-19 12:56:51,045 this is msg for error
+2024-07-19 12:57:36,224 error has occured 
+2024-07-19 12:57:36,224 division by zero
+Traceback (most recent call last):
+  File "C:\Users\bhiru\AppData\Local\Temp\ipykernel_5416\1828862390.py", line 5, in test
+    div = a/b
+          ~^~
+ZeroDivisionError: division by zero
+2024-07-19 12:58:16,006 this is my error log
+2024-07-19 12:58:16,006 this is my exception log
+NoneType: None
+2024-07-19 12:58:16,007 this is my critical log 
+2024-07-19 12:58:54,967 this is my error log
+2024-07-19 12:58:54,967 this is my exception log
+NoneType: None
+2024-07-19 12:58:54,968 this is my critical log 
